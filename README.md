@@ -77,9 +77,6 @@ olist-marketplace-analytics/
 ├── notebooks/
 ├── sql/
 ├── dashboard/
-├── docs/
-├── reports/
-├── images/
 │
 ├── README.md
 ├── requirements.txt
